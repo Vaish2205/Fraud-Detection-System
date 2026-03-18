@@ -38,4 +38,3 @@ Python, XGBoost, Isolation Forest, SHAP, Pandas, Scikit-learn, Streamlit
 ## 👩‍💻 Author
 **Vaishnavi Patil** — MSc Data Science & Analytics, University of Leeds
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
