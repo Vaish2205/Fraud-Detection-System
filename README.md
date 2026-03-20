@@ -3,7 +3,6 @@
 
 An end-to-end fraud detection pipeline trained on 590,540 real financial transactions using a two-layer detection system with explainable AI.
 
-👉 **[Live Demo](https://your-app.streamlit.app)**
 
 ---
 
